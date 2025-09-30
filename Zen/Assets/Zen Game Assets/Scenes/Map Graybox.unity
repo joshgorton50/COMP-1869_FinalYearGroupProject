@@ -644,7 +644,8 @@ PrefabInstance:
       value: FinalBaseMesh
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: -4549757445259455984, guid: 088e0d1e01d41394e813c32208f8db71, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 088e0d1e01d41394e813c32208f8db71, type: 3}
